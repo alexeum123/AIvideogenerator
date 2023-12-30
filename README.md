@@ -80,7 +80,3 @@ To use this script,
 3. [MoviePY](https://zulko.github.io/moviepy/) - For video editing.
 
 <h2 id="note">🗒️ Note</h2>
-
-Note that this script is very basic as of now and does not generate any graphics like images or even subtitles. These are some things that I **MAY** add in the future. If you want to contribute, you are free to do so and you may even fork and improve this repository.
-
-Due to school, exams and irl stuff I don't get much time to work on this project. When I do, I would like to add the above mentioned features. Maybe even a REDDIT video maker but not sure yet.
